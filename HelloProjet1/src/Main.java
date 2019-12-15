@@ -8,5 +8,8 @@ public class Main {
 
         //hello test
         System.out.println("hello test");
+
+        //gogogo
+        System.out.println("gogogo");
     }
 }
