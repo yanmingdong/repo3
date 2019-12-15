@@ -6,7 +6,7 @@ public class Main {
     public void testHelloWorld() {
         System.out.println("HelloWorld!");
 
-        //test
-        System.out.println("test");
+        //hello test
+        System.out.println("hello test");
     }
 }
