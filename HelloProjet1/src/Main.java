@@ -11,5 +11,8 @@ public class Main {
 
         //gogogo
         System.out.println("gogogo");
+
+        //gogogo
+        System.out.println("gogogo");
     }
 }
